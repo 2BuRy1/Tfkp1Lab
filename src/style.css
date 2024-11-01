@@ -1,0 +1,54 @@
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #ffffff;
+
+}
+
+header{
+    display:flex;
+    place-content:center;
+
+}
+
+
+header > h1{
+
+
+
+}
+
+
+
+.julia{
+    display: flex;
+    place-content:center;
+}
+
+#juliaCanvas{
+    border: 1px solid black;
+    border-radius: 60px;
+
+
+}
+
+.mandelbrot{
+    margin: 20px;
+    display: flex;
+    place-content: center;
+
+}
+
+#mandelbrotCanvas{
+    border: 1px solid black;
+    border-radius: 60px;
+
+
+}
